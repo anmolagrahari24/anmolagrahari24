@@ -115,15 +115,6 @@ A full-stack CRUD application for **managing book records**.
 - 🤖 **Exploring** AI-integrated applications
 - 🤝 **Contributing** to meaningful projects
 
----
-
-## 🤝 **Let's Connect**
-
-📧 **Email:** [**anmolagrahari76@gmail.com**](mailto:anmolagrahari76@gmail.com)
-
-💼 **LinkedIn:** [**in/anmol-agrahari-8542132a2**](YOUR_LINKEDIN_URL)
-
-🐙 **GitHub:** [**anmolagrahari24**](https://github.com/anmolagrahari24)
 
 ---
 
